@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1743428708 source:c:\users\abricot\desktop\runtrack__c\jour01\job2\my_strlen\main.c
+	<stdio.h>
+	"my_strlen.c"
+
+1743428821 c:\users\abricot\desktop\runtrack__c\jour01\job2\my_strlen\my_strlen.c
+
